@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       remarks:
-        description: 'Reason for triggering the workflow run'
+        description: 'Reason for triggering the workflow run test'
         required: false
         default: 'Updating Azure Policies'
 
